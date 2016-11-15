@@ -1,3 +1,6 @@
+# script for getting to using t.test() just for getting a
+# 100(1-alpha)% CI (see my Jupyter notebook for more details)
+
 # read in the MSP airport January 1 min temperature data file
 dat = read.csv('min_temps.txt',header=TRUE)
 
